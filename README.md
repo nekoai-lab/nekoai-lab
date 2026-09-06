@@ -1,38 +1,38 @@
-# Hi there, I'm Neko AI Lab! 👋🐈
+# Neko AI Lab
 
-> **Web Marketing Manager × AI Engineer.**
->
-> Webマーケティングの現場で、AIを活用した業務効率化ツールやアプリケーションを開発しています。
-> "つくるマーケター"として、技術とビジネスの架け橋となることを目指しています。
+**AI prototyping, evaluation, and implementation logs.**
+
+Tsukinekoとして、生成AI・データ活用の業務実装に取り組んでいます。
+マーケティングの実務経験を土台に、業務効率化ツールやLLMアプリケーションを開発しています。
+
+「現場で動くLLMプロダクト」を目指して、設計・実装・運用で試したこと、詰まったこと、失敗したことを、コードと図解で記録しています。
+
+個人の技術発信は **Neko AI Lab（ねこあいラボ）**、事業活動は **MARCREVIX** として行っています。
+
+## What I'm Working On
+
+* Claudeを中心とした生成AIの業務活用とプロトタイピング
+* LLMアプリケーションの実装・評価・改善
+* データ活用と業務フローの自動化
+* 実装の過程や試行錯誤を、再利用できるコードと記事にまとめること
+
+## Tools & Technologies
+
+現在の開発・検証で使っている主なツールと技術です。
+
+| Category          | Technologies            |
+| ----------------- | ----------------------- |
+| AI & Coding Tools | Claude / Codex / Gemini |
+| Languages         | Python / TypeScript     |
+| Cloud & Data      | Google Cloud / BigQuery |
+
+## Writing & Links
+
+* [Zenn](https://zenn.dev/nekoai_lab) — 生成AI・データ活用の技術検証と実装ログ
+* [note](https://note.com/nekoai_lab) — AIニュースや考察、マーケティング × AIの実験記録
+* [MARCREVIX Insights](https://marcrevix.com/insights/) — 事業サイトのナレッジ・記事
+* [X](https://x.com/nekoai_lab) — 日々の発信
 
 ---
 
-### 🚀 Tech Stack
-
-日々の開発や実験で使用している技術スタックです。
-
-| Category | Technologies |
-| --- | --- |
-| **Language** | ![Python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat) |
-| **Cloud & AI** | ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4.svg?logo=google-cloud&style=flat) ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4.svg?logo=google-cloud&style=flat) ![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4.svg?logo=google-cloud&style=flat) ![Gemini](https://img.shields.io/badge/AI-Gemini-8E75B2.svg?style=flat) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat) |
-
----
-
-### 📝 Latest Contents
-
-技術的な実装ログはZenn、日々のAIニュースや考察はnoteで発信しています。
-
-* 📕 **Tech Blog (Zenn):** [zenn.dev/nekoai_lab](https://zenn.dev/nekoai_lab)
-    * GCP / Vertex AI / LLMアプリ開発の実装記録など
-* 📓 **Note:** [note.com/nekoai_lab](https://note.com/nekoai_lab)
-    * 3分で読めるAIニュース（毎日更新）
-    * マーケ×AIの実験ログ
-
----
-
-<div align="center">
-  <a href="https://x.com/nekoai_lab">
-    <img src="https://img.shields.io/badge/X(Twitter)-Follow%20Me-1DA1F2?style=for-the-badge&logo=x" alt="X(Twitter)">
-  </a>
-</div>
+発信内容は個人の見解です。
