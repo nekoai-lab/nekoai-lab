@@ -14,8 +14,8 @@
 
 ## やり残し
 
-- PRODUCT.md を人が書く
+- （なし）
 
 ## 次の1手
 
-- PRODUCT.md が書けたら、ARCHITECTURE.md と CLAUDE.md のコマンドを埋める
+- （なし）

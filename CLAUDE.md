@@ -4,7 +4,7 @@
 
 ## 概要
 
-（1〜2行で：誰の・何を楽にするものか。詳しくは PRODUCT.md）
+nekoai-lab の GitHub プロフィール README（public）。プロフィールに表示されるのは README.md だけ。コードの開発対象ではない（REPOS.md のレーン「—」）。
 
 ## よく使うコマンド
 
@@ -38,4 +38,6 @@
 
 ## このリポジトリ固有のルール
 
-（あれば書く）
+- README.md は **main に直接編集してよい**（`.github/direct-push-allow`。GitHub の画面からの編集を含む）。上の「完了の定義」は README の直接編集には当てはめない
+- それ以外（`.github/`・この CLAUDE.md・AGENTS.md・`tasks/`・`.gitignore`）はブランチ → PR
+- public なので、コミットは noreply アドレス（REPOS.md の置き場所のルール）
