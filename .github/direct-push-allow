@@ -1,0 +1,4 @@
+# main に直接 push してよいパス（ai-dev-harness の main-check が読む。glob を1行に1つ）
+# プロフィール README は GitHub の画面から直接編集する（これまでの5コミットはすべて直接）
+# .github/・CLAUDE.md・AGENTS.md・tasks/・.gitignore はここに入れない（ブランチ → PR）
+README.md
